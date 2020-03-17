@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a42b4d-6d31-4ce9-a72d-fe873d230085" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Titanic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Titanic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +22,38 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WordCloudAI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Titanic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordCloudAI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.WordCloudAI" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,5 +85,45 @@
       <screen x="0" y="0" width="2293" height="920" />
     </state>
     <state x="868" y="71" key="CommitChangelistDialog2/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584403935724" />
+    <state x="734" y="142" width="1200" height="680" key="DiffContextDialog" timestamp="1584408455706">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="734" y="142" width="1200" height="680" key="DiffContextDialog/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584408455706" />
+    <state x="1114" y="237" key="FileChooserDialogImpl" timestamp="1584407100958">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1114" y="237" key="FileChooserDialogImpl/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584407100958" />
+    <state x="1152" y="395" key="Github.CreateGistDialog" timestamp="1584407376723">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1152" y="395" key="Github.CreateGistDialog/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584407376723" />
+    <state width="1368" height="227" key="GridCell.Tab.0.bottom" timestamp="1584408180822">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1368" height="227" key="GridCell.Tab.0.bottom/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584408180822" />
+    <state width="1368" height="227" key="GridCell.Tab.0.center" timestamp="1584408180822">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1368" height="227" key="GridCell.Tab.0.center/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584408180822" />
+    <state width="1368" height="227" key="GridCell.Tab.0.left" timestamp="1584408180821">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1368" height="227" key="GridCell.Tab.0.left/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584408180821" />
+    <state width="1368" height="227" key="GridCell.Tab.0.right" timestamp="1584408180822">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1368" height="227" key="GridCell.Tab.0.right/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584408180822" />
+    <state x="836" y="124" key="SettingsEditor" timestamp="1584407104213">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="836" y="124" key="SettingsEditor/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584407104213" />
+    <state x="927" y="215" key="Vcs.Push.Dialog.v2" timestamp="1584407305486">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="927" y="215" key="Vcs.Push.Dialog.v2/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584407305486" />
+    <state x="734" y="142" width="1200" height="680" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584408455706">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="734" y="142" width="1200" height="680" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1280.0.1280.964/0.0.2293.920@0.0.2293.920" timestamp="1584408455706" />
   </component>
 </project>
